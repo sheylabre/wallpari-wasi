@@ -1,0 +1,59 @@
+
+    nav {
+        background-color: #80cbc4  !important;
+    }
+
+    .logo {  
+        width: 16%;
+    }
+
+/* ==========================================================================
+   Responsive Mobile
+   ========================================================================== */
+
+@media screen and (max-width: 1200px) {/*md*/
+
+    .show-md{display:block !important}
+    .hide-md{display:none !important}
+
+}
+@media screen and (max-width: 991px) {/*sm*/
+
+
+
+    .show-sm{display:block !important}
+    .hide-sm{display:none !important}
+}
+@media screen and (max-width: 767px) {/*xs menu movil*/
+
+
+    .show-xs{display:block !important}
+    .hide-xs{display:none !important}
+}
+
+
+@media screen and (orientation:landscape) {/*Panoramica*/
+    @media screen and (max-width: 1024px) {
+    }
+    @media screen and (max-width: 767px) {/*xs*/
+
+    }
+    @media screen and (max-width: 480px) {
+    }
+    }
+    @media screen and (orientation:portrait) {/*parado*/
+    @media screen and (max-width: 640px) {
+    }
+    @media screen and (max-width: 480px) {
+    }
+    }
+    @media screen and (max-width: 200px) {
+    }
+    @media screen and (min-width: 1200px) {
+
+} 
+
+
+
+
+

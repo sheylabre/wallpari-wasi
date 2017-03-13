@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="140px" height="140px" viewBox="0 0 140 140" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40 (33762) - http://www.bohemiancoding.com/sketch -->
+    <title>highspeed</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="19" height="71" rx="2"></rect>
+        <rect id="path-3" x="0" y="0" width="19" height="55" rx="2"></rect>
+    </defs>
+    <g id="Artboards" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="highspeed">
+            <g id="international-data">
+                <rect id="Rectangle" x="0" y="0" width="140" height="140"></rect>
+                <circle id="Oval-10" fill="#EEEEEE" cx="70" cy="70" r="53"></circle>
+                <rect id="Rectangle-5" fill="#F4B400" x="39" y="53" width="19" height="39" rx="2"></rect>
+                <g id="Fill-18" transform="translate(83.000000, 21.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Mask" fill="#F4B400" xlink:href="#path-1"></use>
+                    <path d="M-15.9702878,78.4512762 C-15.2396213,61.8442434 -1.18308337,48.9745501 15.4239494,49.7061934 C32.0309822,50.4378366 44.9006756,64.4933978 44.1700091,81.1014074 C43.437389,97.7084402 29.3818279,110.578134 12.7747951,109.84649 C-3.83223771,109.114847 -16.7019311,95.0592858 -15.9702878,78.4512762" fill="#F2A600" mask="url(#mask-2)"></path>
+                </g>
+                <g id="Fill-18" transform="translate(61.000000, 37.000000)">
+                    <mask id="mask-4" fill="white">
+                        <use xlink:href="#path-3"></use>
+                    </mask>
+                    <use id="Mask" fill="#F4B400" xlink:href="#path-3"></use>
+                    <path d="M6.02971221,62.4512762 C6.76037867,45.8442434 20.8169166,32.9745501 37.4239494,33.7061934 C54.0309822,34.4378366 66.9006756,48.4933978 66.1700091,65.1014074 C65.437389,81.7084402 51.3818279,94.5781336 34.7747951,93.8464903 C18.1677623,93.114847 5.29806892,79.0592858 6.02971221,62.4512762" fill="#F2A600" mask="url(#mask-4)"></path>
+                </g>
+                <path d="M73.3573968,96.9905397 C73.9747937,82.9579683 85.852254,72.0833651 99.8848254,72.7015873 C113.917397,73.3198095 124.792,85.1964444 124.174603,99.2298413 C123.555556,113.262413 111.678921,124.137016 97.6463492,123.518794 C83.6137778,122.900571 72.7391746,111.023937 73.3573968,96.9905397" id="Fill-18" fill="#00BCD4"></path>
+                <polyline id="Fill-19" fill="#FFFFFF" points="114.623111 90.928 111.297587 87.6033016 95.251873 103.649841 87.3907937 95.7895873 84.0660952 99.1142857 91.9271746 106.97454 91.9230476 106.978667 95.247746 110.303365 95.251873 110.299238 95.2551746 110.303365 98.579873 106.978667 98.5765714 106.97454 114.623111 90.928"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>
